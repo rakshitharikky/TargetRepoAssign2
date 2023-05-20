@@ -26,6 +26,7 @@ class Tester extends Emp{
 	
 	}
 
+
 }
 class Programmer extends Emp{
 	Programmer(String name,int age){
